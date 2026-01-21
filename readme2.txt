@@ -3,5 +3,5 @@ public String main2() {
 }
 
 public String main1() {
-  sout("@@@");
+  sout("321");
 }
