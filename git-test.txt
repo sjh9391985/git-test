@@ -1,11 +1,11 @@
 public class test {
 
   public static void test1() {
-    System.out.println("1");
+    System.out.println("테스트 메서드 원격 작업 1입니다");
   }
 
   public static void test2() {
-    System.out.println("2");
+    System.out.println("테스트 메서드 작업 2입니다");
   }
 
 }
