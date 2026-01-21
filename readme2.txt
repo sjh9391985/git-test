@@ -1,5 +1,5 @@
 public String main2() {
-  sout("!!!");
+  sout("123");
 }
 
 public String main1() {
