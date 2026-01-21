@@ -5,7 +5,7 @@ public class test {
   }
 
   public static void test2() {
-    System.out.println("테스트 메서드 작업 2입니다");
+    System.out.println("테스트 메서드 로컬 수정 작업 2입니다");
   }
 
 }
