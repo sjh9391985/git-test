@@ -5,7 +5,7 @@ public class test {
   }
 
   public static void test2() {
-    System.out.println("테스트 메서드 2입니다");
+    System.out.println("테스트 메서드 원격 작업 2입니다");
   }
 
 }
