@@ -5,7 +5,11 @@ public class test {
   }
 
   public static void test2() {
+<<<<<<< HEAD
     System.out.println("테스트 메서드 로컬 수정 작업 3입니다");
+=======
+    System.out.println("테스트 메서드 로컬 수정 작업 4입니다");
+>>>>>>> db05fb110466a85254a8bf6b3ecc6bea592162a0
   }
 
 }
